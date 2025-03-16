@@ -1,4 +1,4 @@
-# 📊 Business Intelligence Tool
+# 📊 MOOLI-BI
 
 A free, open-source **Business Intelligence Tool** designed for small businesses in India. This tool allows users to upload datasets, generate interactive visualizations, and gain valuable insights from their data.
 
